@@ -16,7 +16,6 @@ This repository presents a comprehensive comparative study of machine learning a
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Requirements](#requirements)
-- [Citation](#citation)
 
 ## Introduction
 
